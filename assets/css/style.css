@@ -96,14 +96,4 @@ h1 {
     p.tag-line {
       font-size: 99%;
     }
-    
-    icons-left {
-      float: right;
-    }
-    
-    icons-right {
-      float: left;
-    }
 }
-
-
