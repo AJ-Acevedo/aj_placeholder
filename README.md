@@ -1,10 +1,10 @@
 ## AJAcevedo.com - "Research, Learn, Practice, Repeat!"
 
-This is the source code for [AJAcevedo.com](http://ajacevedo.com).
+This is the source code for [AJAcevedo.com](http://ajacevedo.com). Feel free to fork this repo and use it as your own.
 
 ### Built Using
-[Bootstrap v3.3.7](http://getbootstrap.com)
-[Font Awesome v4.7.0](http://fontawesome.io)
+- [Bootstrap v3.3.7](http://getbootstrap.com)  
+- [Font Awesome v4.7.0](http://fontawesome.io)
 
 ### License
 
