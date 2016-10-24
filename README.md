@@ -2,6 +2,10 @@
 
 This is the source code for [AJAcevedo.com](http://ajacevedo.com).
 
+### Built Using
+[Bootstrap v3.3.7](http://getbootstrap.com)
+[Font Awesome v4.7.0](http://fontawesome.io)
+
 ### License
 
 [MIT License](https://opensource.org/licenses/MIT)
