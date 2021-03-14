@@ -5,12 +5,14 @@ This is the source code for [AJAcevedo.com](http://ajacevedo.com). Feel free to 
 ### Built Using
 - [Bootstrap v3.3.7](http://getbootstrap.com)  
 - [Font Awesome v4.7.0](http://fontawesome.io)
+- [Backstretch - v2.1.18](https://github.com/jquery-backstretch/jquery-backstretch)
+
 
 ### License
 
 [MIT License](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2016 AJ Acevedo
+Copyright (c) 2016 - 2021 AJ Acevedo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
